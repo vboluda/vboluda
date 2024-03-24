@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### I am Vicente Boluda Vias 👋
+I am a software architect specialized in Web3 and Backend.
 <!--
 **vboluda/vboluda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
